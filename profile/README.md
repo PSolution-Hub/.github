@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MafdyAzer, Senior Full-stack Developer (.NET) at @BibleSocietyEg.
-- 👀 I’m interested in Music, reading and coding.
-- 🌱 I’m currently learning project management .
-- 💞️ I’m looking to collaborate on projects that serve humanity.
+- 👋 Hi, This is Perfect Solution Hub.
+- 👀 Who we are: an independent software vendor (ISV) works to enable small and medium businesses (SMBs) to be more productive by providing them with powerful business management software.
+- 🌱   Custom Software Development: Your product’s foundation developed to lasts for years with a focus on stack flexibility, high availability, and top performance. Only using software development tools with strong community support.
+- 💞️ looking to collaborate on projects that serve humanity.
 - 📫 You can reach me at Linkedin: https://www.linkedin.com/in/mafdyadaoud/
 
 <!---
